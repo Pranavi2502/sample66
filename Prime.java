@@ -1,8 +1,8 @@
 public class Prime {
     public static void main(String[] args) {
-        for (int i = 2; i <= 100; i++) {
-            if (isPrime(i)) {
-                System.out.print(i + " ");
+        for (int k = 2; k <= 100; k++) {
+            if (isPrime(k)) {
+                System.out.print(k + " ");
             }
         }
     }
